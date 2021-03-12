@@ -1,4 +1,4 @@
 if (xv <= 100) {
   console.log("[ ! Warning ] Suspicious activity detected.")
-  document.getElementById("testing")
+  document.getElementById("testing").innerHTML=("Testing successful");
 }
