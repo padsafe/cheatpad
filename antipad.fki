@@ -2,3 +2,8 @@
 if (xvelocity) > (100) (
   ban[]
 )
+
+#/ This is an AntiFly function
+if (y) > (400) (
+  ban[]
+)
